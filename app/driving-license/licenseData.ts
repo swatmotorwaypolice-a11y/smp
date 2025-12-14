@@ -1,0 +1,300 @@
+export interface LicenseDetails {
+  cnic: string;
+  name: string;
+  fatherName: string;
+  licenseNumber: string;
+  licenseType: string;
+  issueDate: string;
+  expiryDate: string;
+  bloodGroup: string;
+  address: string;
+  imageUrl: string;
+}
+
+// Mock data - In production, this would come from an API
+export const mockLicenseData: { [key: string]: LicenseDetails } = {
+  '2120365927549': {
+    cnic: '21203-6592754-9',
+    name: 'BAKHTIAR ALI',
+    fatherName: 'GHANI GUL',
+    licenseNumber: '0000042923',
+    licenseType: 'HTV ONLY',
+    issueDate: '2025-02-13',
+    expiryDate: '2030-01-18',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/b.jpg'
+  },
+  '4230163474233': {
+    cnic: '42301-6347523-3',
+    name: 'XYZ',
+    fatherName: 'ABC',
+    licenseNumber: 'DL-12345',
+    licenseType: 'LTV,HTV',
+    issueDate: '2022-01-15',
+    expiryDate: '2027-01-14',
+    address: "null",
+    bloodGroup: 'O+',
+    imageUrl: '/1.jpeg'
+  },
+  '2120335765455': {
+    cnic: '21203-3576545-5',
+    name: 'SHOAIB KHAN',
+    fatherName: 'MAIN GUL',
+    licenseNumber: '00000015765',
+    licenseType: 'HTV',
+    issueDate: '2025-02-12',
+    expiryDate: '2030-02-05',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/5.jpg'
+  },
+  '2120342246557': {
+    cnic: '21203-4224655-7',
+    name: 'AKHTAR FARAZ',
+    fatherName: 'TAJ AKBAR',
+    licenseNumber: '00000013298',
+    licenseType: 'LTV ONLY',
+    issueDate: '2025-02-09',
+    expiryDate: '2030-02-26',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/Akh.JPG'
+  },
+  
+  '2120363981105': {
+    cnic: '21203-6398110-5',
+    name: 'KHALIL UR RAHMAN',
+    fatherName: 'HAJI RAHMAN',
+    licenseNumber: '00000042994',
+    licenseType: 'LTV,HTV ONLY',
+    issueDate: '2025-02-13',
+    expiryDate: '2030-01-18',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/k.jpg'
+  },
+  
+  '2120399645695': {
+    cnic: '21203-9964569-5',
+    name: 'SAFEER ULLAH',
+    fatherName: 'SAIF ULREHMAN',
+    licenseNumber: '00000042387',
+    licenseType: 'LTV,HTV ONLY',
+    issueDate: '2025-03-09',
+    expiryDate: '2030-02-26',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/s.jpg'
+  },
+  
+  '4240151782795': {
+    cnic: '42401-5178279-5',
+    name: 'ZARDULLAH KHAN',
+    fatherName: 'SYED AHMED',
+    licenseNumber: '00000032467',
+    licenseType: 'HTV ONLY',
+    issueDate: '2025-02-27',
+    expiryDate: '2030-02-15',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/z.jpg'
+  },
+  
+  '2120371695539': {
+    cnic: '21203-7169553-9',
+    name: 'ZAKIR KHAN',
+    fatherName: 'GULAB SAID',
+    licenseNumber: '00000042854',
+    licenseType: 'HTV ONLY',
+    issueDate: '2025-02-27',
+    expiryDate: '2030-01-22',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/za.jpeg'
+  },
+  
+ '2120339022943': {
+    cnic: '21203-3902294-3',
+    name: 'SHAN ALAM',
+    fatherName: 'SARAF GUL',
+    licenseNumber: '00000067957',
+    licenseType: 'HTV ONLY',
+    issueDate: '2025-02-19',
+    expiryDate: '2030-01-16',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/11.png'
+  },
+  '2120392842251': {
+    cnic: '21203-9284225-1',
+    name: 'LUQMAN',
+    fatherName: 'SHERA KHAN',
+    licenseNumber: '00000065821',
+    licenseType: 'HTV ONLY',
+    issueDate: '2025-03-19',
+    expiryDate: '2030-02-16',
+    address: "null",
+    bloodGroup: 'B Positive',
+    imageUrl: '/12.JPG'
+  },
+  '2120355373995': {
+    cnic: '21203-5537399-5',
+    name: 'IQRA AZAM',
+    fatherName: 'SAIDRA AZAM',
+    licenseNumber: '00000075821',
+    licenseType: 'HTV ONLY',
+    issueDate: '2025-03-05',
+    expiryDate: '2030-02-18',
+    address: "null",
+    bloodGroup: 'O +',
+    imageUrl: '/13.jpg'
+  },
+  '2120385352021': {
+    cnic: '21203-8535202-1',
+    name: 'SAAD ULLAH',
+    fatherName: 'SHAHZAD GUL',
+    licenseNumber: '00000066493',
+    licenseType: 'HTV ONLY',
+    issueDate: '2025-03-19',
+    expiryDate: '2030-02-16',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/14.png'
+  },
+  '2120392857463': {
+    cnic: '21203-9285746-3',
+    name: 'ARSHAD ALI',
+    fatherName: 'AZMALI',
+    licenseNumber: '00000069871',
+    licenseType: 'HTV ONLY',
+    issueDate: '2025-03-18',
+    expiryDate: '2030-02-16',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/15.png'
+  },
+  '2120243885383': {
+    cnic: '21202-4388538-3',
+    name: 'SUBHAN KHAN',
+    fatherName: 'MIRAJ KHAN',
+    licenseNumber: '00000066821',
+    licenseType: 'LTV,HTV ONLY',
+    issueDate: '2025-02-19',
+    expiryDate: '2030-01-16',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/16.png'
+  },
+  '2120327813295': {
+    cnic: '21203-2781329-5',
+    name: 'SAMIL KHAN',
+    fatherName: 'GUL ROMAN',
+    licenseNumber: '00000075421',
+    licenseType: 'HTV ONLY',
+    issueDate: '2025-04-05',
+    expiryDate: '2030-03-12',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/sa.png'
+  },
+  '2120397473809': {
+    cnic: '21203-9747380-9',
+    name: 'SADAM HUSSAIN',
+    fatherName: 'NOORA GUL',
+    licenseNumber: '00000076411',
+    licenseType: 'HTV ONLY',
+    issueDate: '2025-03-05',
+    expiryDate: '2030-02-12',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/sadam.jpeg'
+  },
+  '2240151229315': {
+    cnic: '22401-5122931-5',
+    name: 'ABDUL QADIR',
+    fatherName: 'GUL AMIN',
+    licenseNumber: '00000024679',
+    licenseType: 'LTV ONLY',
+    issueDate: '2024-12-09',
+    expiryDate: '2029-12-26',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/abdul.jpeg'
+  },
+  '4240124562031': {
+    cnic: '42401-2456203-1',
+    name: 'INTEZAR ALI',
+    fatherName: 'SHER WALI',
+    licenseNumber: '00000068541',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-03-2025',
+    expiryDate: '16-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/intezar.png'
+  },
+  
+  '2120312857153': {
+    cnic: '21203-1285715-3',
+    name: 'SATARA KHAN',
+    fatherName: 'KHALO KHAN',
+    licenseNumber: '00000066911',
+    licenseType: 'HTV ONLY',
+    issueDate: '05-01-2025',
+    expiryDate: '01-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/satara.png'
+  },
+  '1730155306833': {
+    cnic: '17301-5530683-3',
+    name: 'WAQAS',
+    fatherName: 'KHAISTA KHAN',
+    licenseNumber: '00000042841',
+    licenseType: 'LTV,HTV ONLY',
+    issueDate: '19-03-2025',
+    expiryDate: '16-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/waqas.png'
+  },
+  '2120380914797': {
+    cnic: '21203-8091479-7',
+    name: 'MUJEEB KHAN',
+    fatherName: 'GUL KHEJAB',
+    licenseNumber: '00000094537',
+    licenseType: 'HTV ONLY',
+    issueDate: '20-04-2025',
+    expiryDate: '16-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/mujeeb.png'
+  },
+  
+  '4230163475235': {
+    cnic: '42301-6347523-5',
+    name: 'shabbir afridi',
+    fatherName: 'fazal ameen afridi',
+    licenseNumber: '00000094537',
+    licenseType: 'HTV ONLY',
+    issueDate: '20-04-2025',
+    expiryDate: '16-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/mujeeb.png'
+  },
+  '4230163475233': {
+    cnic: '42301-6347523-3',
+    name: 'shabbir afridi',
+    fatherName: 'fazal ameen afridi',
+    licenseNumber: '00000094537',
+    licenseType: 'HTV ONLY',
+    issueDate: '20-04-2025',
+    expiryDate: '16-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/mujeeb.png'
+  },
+};
+
