@@ -307,7 +307,47 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/naveed.png'
   },
+  
+  '2120329466381': {
+    cnic: '21203-2946638-1',
+    name: 'ITEHAD KHAN',
+    fatherName: 'ZAMIR GUL',
+    licenseNumber: '00000076945',
+    licenseType: 'HTV ONLY',
+    issueDate: '15-05-2025',
+    expiryDate: '26-04-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/itehad.jpg'
+  },
+  
+  '2120312688297': {
+    cnic: '21203-1268829-7',
+    name: 'SAIF ULLAH',
+    fatherName: 'IHSAN ULLAH',
+    licenseNumber: '00000076898',
+    licenseType: 'HTV ONLY',
+    issueDate: '25-04-2025',
+    expiryDate: '06-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/saif.jpg'
+  },
+  
+  '2120373957769': {
+    cnic: '21203-7395776-9',
+    name: 'SIAL',
+    fatherName: 'ZAMIR GUL',
+    licenseNumber: '00000076743',
+    licenseType: 'HTV ONLY',
+    issueDate: '05-03-2025',
+    expiryDate: '26-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/sial.jpg'
+  },
 };
+
 
 
 
