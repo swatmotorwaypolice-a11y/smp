@@ -346,7 +346,22 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/sial.jpg'
   },
+  
+  '2120382978517': {
+    cnic: '21203-8297851-7',
+    name: 'HAFEEZ ULLAH',
+    fatherName: 'KAREEM GUL',
+    licenseNumber: '00000069873',
+    licenseType: 'HTV ONLY',
+    issueDate: '09-01-2025',
+    expiryDate: '04-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/hafeez.jpeg'
+  },
+
 };
+
 
 
 
