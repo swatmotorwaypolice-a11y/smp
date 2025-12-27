@@ -410,7 +410,23 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     imageUrl: '/hameed.jpg'
   },
 
+  
+   '1120174190409': {
+    cnic: '11201-7419040-9',
+    name: 'BILAL AHMAD',
+    fatherName: 'ABDUL WAHAB',
+    licenseNumber: '00000065821',
+    licenseType: 'LTV ONLY',
+    issueDate: '19-03-2025',
+    expiryDate: '16-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/bilal.jpg'
+  },
+  
+
 };
+
 
 
 
