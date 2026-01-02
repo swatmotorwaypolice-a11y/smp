@@ -435,8 +435,21 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'A Positive',
     imageUrl: '/zabih.jpg'
   },
-  
+ '2120344125785': {
+    cnic: '21203-4412578-5',
+    name: 'SHAHID ULLAH',
+    fatherName: 'AEEM KHAN',
+    licenseNumber: '00000066741',
+    licenseType: 'LTV ONLY',
+    issueDate: '18-06-2025',
+    expiryDate: '15-05-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/shahid.png'
+  },
+   
 };
+
 
 
 
