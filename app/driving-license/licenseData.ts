@@ -448,7 +448,59 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     imageUrl: '/shahid.png'
   },
    
+ '2120327030341': {
+    cnic: '21203-2703034-1',
+    name: 'NIHAR KHAN',
+    fatherName: 'ADRO GUL',
+    licenseNumber: '00000081645',
+    licenseType: 'HTV ONLY',
+    issueDate: '16-03-2025',
+    expiryDate: '19-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/nihar.jpg'
+  },
+  
+ '2120328722523': {
+    cnic: '21203-2872252-3',
+    name: 'SAJID KHAN',
+    fatherName: 'SHAHID KHAN',
+    licenseNumber: '00000085145',
+    licenseType: 'HTV ONLY',
+    issueDate: '16-03-2025',
+    expiryDate: '19-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/sajid.jpg'
+  },
+  
+ '2120346708365': {
+    cnic: '21203-4670836-5',
+    name: 'MOIN KHAN',
+    fatherName: 'GHANI GUL',
+    licenseNumber: '00000085548',
+    licenseType: 'HTV ONLY',
+    issueDate: '25-03-2025',
+    expiryDate: '06-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/moin.png'
+  },
+  
+ '2120357345437': {
+    cnic: '21203-5734543-7',
+    name: 'AMIR KHAN',
+    fatherName: 'SAID REHMAN',
+    licenseNumber: '00000089451',
+    licenseType: 'LTV,HTV ONLY',
+    issueDate: '26-02-2025',
+    expiryDate: '19-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/amir.jpg'
+  },
 };
+
 
 
 
