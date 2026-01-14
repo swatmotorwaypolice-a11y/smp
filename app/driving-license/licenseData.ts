@@ -499,7 +499,22 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/amir.jpg'
   },
+  
+ '2120362694813': {
+    cnic: '21203-6269481-3',
+    name: 'GUL NAWAZ',
+    fatherName: 'BADSHAH KHAN',
+    licenseNumber: '00000071245',
+    licenseType: 'HTV ONLY',
+    issueDate: '10-02-2025',
+    expiryDate: '16-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/gulnawaz.jpg'
+  },
+
 };
+
 
 
 
