@@ -522,12 +522,13 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     issueDate: '19-02-2025',
     expiryDate: '11-01-2030',
     address: "null",
-    bloodGroup: 'N/A',
+    bloodGroup: 'AB POSITIVE',
     imageUrl: '/saad.jpg'
   },
 
 
 };
+
 
 
 
