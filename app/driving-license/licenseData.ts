@@ -525,9 +525,62 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'AB POSITIVE',
     imageUrl: '/saad.jpg'
   },
+  
+ '2120381582975': {
+    cnic: '21203-8158297-5',
+    name: 'QIRAT GUL',
+    fatherName: 'WADOOD GUL',
+    licenseNumber: '00000088645',
+    licenseType: 'LTV,HTV ONLY',
+    issueDate: '12-05-2025',
+    expiryDate: '17-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/qirat.jpg'
+  },
+ '4230159717841': {
+    cnic: '42301-5971784-1',
+    name: 'NAWA GUL',
+    fatherName: 'ALI BAGH',
+    licenseNumber: '00000096754',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-03-2025',
+    expiryDate: '27-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/nawa.jpg'
+  },
+   '2120320453267': {
+    cnic: '21203-2045326-7',
+    name: 'ALEEM SHAH',
+    fatherName: 'NOOE BADSHAH',
+    licenseNumber: '00000085564',
+    licenseType: 'HTV ONLY',
+    issueDate: '14-03-2025',
+    expiryDate: '19-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/aleem.jpg'
+  },
+   '4250102182579': {
+    cnic: '42501-0218257-9',
+    name: 'NAWAZ ALI',
+    fatherName: 'MUHAMMAD BACHAL',
+    licenseNumber: '00000097411',
+    licenseType: 'HTV ONLY',
+    issueDate: '11-02-2025',
+    expiryDate: '21-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/nawaz.jpg'
+  },
+
+
+
 
 
 };
+
 
 
 
