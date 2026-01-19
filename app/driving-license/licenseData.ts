@@ -574,12 +574,20 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/nawaz.jpg'
   },
-
-
-
-
-
+   '2120324496381': {
+    cnic: '21203-2449638-1',
+    name: 'ABDUR REHMAN',
+    fatherName: 'BAKHTAIR ALI',
+    licenseNumber: '00000098236',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-02-2025',
+    expiryDate: '16-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/abdur.jpg'
+  },
 };
+
 
 
 
