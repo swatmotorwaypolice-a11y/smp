@@ -586,7 +586,21 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/abdur.jpg'
   },
+  
+   '2120394683597': {
+    cnic: '21203-9468359-7',
+    name: 'AKHTAR NABI',
+    fatherName: 'KHAIR SHAH',
+    licenseNumber: '00000085412',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-03-2025',
+    expiryDate: '16-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/akhtarnabi.jpg'
+  },
 };
+
 
 
 
