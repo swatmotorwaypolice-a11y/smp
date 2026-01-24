@@ -599,7 +599,35 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/akhtarnabi.jpg'
   },
+  
+   '4240169049003': {
+    cnic: '42401-6904900-3',
+    name: 'SHAREEF GUL',
+    fatherName: 'PAINDA GUL',
+    licenseNumber: '00000093636',
+    licenseType: 'HTV ONLY',
+    issueDate: '14-07-2024',
+    expiryDate: '17-08-2029',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/shareef.jpg'
+  },
+   '2120349334401': {
+    cnic: '21203-4933440-1',
+    name: 'GULZAR ALAM',
+    fatherName: 'SAMANDAR KHAN',
+    licenseNumber: '00000098436',
+    licenseType: 'HTV ONLY',
+    issueDate: '14-03-2025',
+    expiryDate: '17-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/gulzar.jpg'
+  },
+
+
 };
+
 
 
 
