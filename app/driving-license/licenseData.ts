@@ -624,9 +624,83 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/gulzar.jpg'
   },
-
+   '2120310294921': {
+    cnic: '21203-1029492-1',
+    name: 'MUKHTAR ALI',
+    fatherName: 'GHANI GUL',
+    licenseNumber: '00000078214',
+    licenseType: 'HTV ONLY',
+    issueDate: '10-01-2025',
+    expiryDate: '09-01-2030',
+    address: "null",
+    bloodGroup: 'AB POSITIVE',
+    imageUrl: '/MUKHTAR.jpg'
+  },
+   '5420375364991': {
+    cnic: '54203-7536499-1',
+    name: 'MUHAMMAD YOUNAS',
+    fatherName: 'JANAN',
+    licenseNumber: '00000078397',
+    licenseType: 'HTV ONLY',
+    issueDate: '10-03-2025',
+    expiryDate: '19-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MUHAMMAD.jpg'
+  },
+  
+   '4250118103239': {
+    cnic: '42501-1810323-9',
+    name: 'RAMZAN',
+    fatherName: 'BACHAL',
+    licenseNumber: '00000078215',
+    licenseType: 'HTV ONLY',
+    issueDate: '20-03-2025',
+    expiryDate: '19-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/RAMZAN.jpg'
+  },
+   '5420325250337': {
+    cnic: '54203-2525033-7',
+    name: 'ABDUL RASHEED',
+    fatherName: 'NIAZ MUHAMMAD',
+    licenseNumber: '00000077530',
+    licenseType: 'HTV ONLY',
+    issueDate: '27-03-2025',
+    expiryDate: '19-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/ABDUL.jpg'
+  },
+   '5420394854191': {
+    cnic: '54203-9885419-1',
+    name: 'NASEER AHMED',
+    fatherName: 'NIAZ MUHAMMAD',
+    licenseNumber: '00000077421',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-02-2025',
+    expiryDate: '10-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/NASEER.jpg'
+  },
+  
+   '4240106628043': {
+    cnic: '42401-0662804-3',
+    name: 'MUHAMMAD TARIQ KHAN NIAZI',
+    fatherName: 'FATEH KHAN NIAZI',
+    licenseNumber: '00000077341',
+    licenseType: 'HTV ONLY',
+    issueDate: '15-01-2025',
+    expiryDate: '13-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/NIAZI.jpg'
+  },
 
 };
+
 
 
 
