@@ -646,7 +646,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     expiryDate: '19-02-2030',
     address: "null",
     bloodGroup: 'N/A',
-    imageUrl: '/MUHAMMAD.jpg'
+    imageUrl: '/MUHAMMAD-YOUNAS.jpg'
   },
   
    '4250118103239': {
@@ -700,6 +700,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
   },
 
 };
+
 
 
 
