@@ -698,8 +698,21 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/NIAZI.jpg'
   },
+  '2120353525721': {
+    cnic: '21203-53525721',
+    name: 'ZAR WALI SHAH',
+    fatherName: 'LAHORE SHAH',
+    licenseNumber: '00000075412',
+    licenseType: 'HTV ONLY',
+    issueDate: '04-03-2025',
+    expiryDate: '06-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/ZAR.jpg'
+  },
 
 };
+
 
 
 
