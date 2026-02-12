@@ -710,8 +710,34 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/ZAR.jpg'
   },
+  
+  '1530379236881': {
+    cnic: '15303-7923688-1',
+    name: 'WAHEED ULLAH',
+    fatherName: 'MIR ZAMAN KHAN',
+    licenseNumber: '00000095451',
+    licenseType: 'HTV ONLY',
+    issueDate: '22-03-2025',
+    expiryDate: '26-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/WAHEED.jpg'
+  },
+  '1730122321737': {
+    cnic: '17301-2232173-7',
+    name: 'DARWAISH KHAN',
+    fatherName: 'NADIR KHAN',
+    licenseNumber: '00000085214',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-02-2025',
+    expiryDate: '16-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/DAR.jpg'
+  },
 
 };
+
 
 
 
