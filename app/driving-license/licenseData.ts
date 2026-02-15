@@ -736,7 +736,68 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     imageUrl: '/DAR.jpg'
   },
 
+  '2120349364215': {
+    cnic: '21203-4936421-5',
+    name: 'BASIT KHAN',
+    fatherName: 'WAQAR',
+    licenseNumber: '00000091634',
+    licenseType: 'HTV ONLY',
+    issueDate: '15-01-2025',
+    expiryDate: '11-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/basit.jpg'
+  },
+  '2120361991107': {
+    cnic: '21203-6199110-7',
+    name: 'MALAK NAWAZ',
+    fatherName: 'DOST MUHAMMAD',
+    licenseNumber: '00000090124',
+    licenseType: 'HTV ONLY',
+    issueDate: '05-01-2025',
+    expiryDate: '01-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/malak.jpg'
+  },
+  '2120387648387': {
+    cnic: '21203-8764838-7',
+    name: 'NOOR UD DIN',
+    fatherName: 'NASRUDDIN',
+    licenseNumber: '00000089412',
+    licenseType: 'HTV ONLY',
+    issueDate: '16-05-2025',
+    expiryDate: '26-04-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/noor.jpg'
+  },
+  '2120328417993': {
+    cnic: '21203-2841799-3',
+    name: 'HASAM UD DIN',
+    fatherName: 'NASR UD DIN',
+    licenseNumber: '00000075421',
+    licenseType: 'HTV ONLY',
+    issueDate: '06-03-2025',
+    expiryDate: '26-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/hasam.jpg'
+  },
+  '2120346555297': {
+    cnic: '21203-4655529-7',
+    name: 'GUL SHAD',
+    fatherName: 'GHANI GUL',
+    licenseNumber: '00000098721',
+    licenseType: 'HTV ONLY',
+    issueDate: '14-04-2025',
+    expiryDate: '17-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/GULSHAD.jpg'
+  },
 };
+
 
 
 
