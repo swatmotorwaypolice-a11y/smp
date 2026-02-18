@@ -796,7 +796,21 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/GULSHAD.jpg'
   },
+  
+  '2120396044937': {
+    cnic: '21203-9604493-7',
+    name: 'ASAD ULLAH',
+    fatherName: 'ZAR MUHAMMAD',
+    licenseNumber: '00000075484',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-01-2025',
+    expiryDate: '16-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/ASAD.jpg'
+  },
 };
+
 
 
 
