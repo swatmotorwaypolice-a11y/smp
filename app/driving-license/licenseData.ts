@@ -809,7 +809,21 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/ASAD.jpg'
   },
+  '2110447090121': {
+    cnic: '21104-4709012-1',
+    name: 'KHAN WALI',
+    fatherName: 'ABDUL WALI',
+    licenseNumber: '00000086478',
+    licenseType: 'HTV ONLY',
+    issueDate: '13-02-2025',
+    expiryDate: '10-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/KHANWALI.jpg'
+  },
+
 };
+
 
 
 
