@@ -844,9 +844,21 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     address: "null",
     bloodGroup: 'N/A',
     imageUrl: '/WAQAS.jpg'
+  },'2120315784121': {
+    cnic: '21203-1578412-1',
+    name: 'MUMTAZ ALI',
+    fatherName: 'HAYAT NOOR',
+    licenseNumber: '00000094341',
+    licenseType: 'HTV ONLY',
+    issueDate: '13-03-2025',
+    expiryDate: '22-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MUMTAZALI.jpg'
   },
 
 };
+
 
 
 
