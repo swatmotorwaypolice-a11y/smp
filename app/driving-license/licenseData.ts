@@ -856,8 +856,20 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/MUMTAZALI.jpg'
   },
-
+'2120397185407': {
+    cnic: '21203-9718540-7',
+    name: 'HAROON KHAN',
+    fatherName: 'ZAWAB SHER',
+    licenseNumber: '00000095481',
+    licenseType: 'HTV ONLY',
+    issueDate: '09-02-2025',
+    expiryDate: '16-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/HAROON.jpg'
+  },
 };
+
 
 
 
