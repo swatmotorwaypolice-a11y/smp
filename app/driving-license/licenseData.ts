@@ -795,6 +795,19 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/HAROON.jpg'
   },
+  
+'2120388875163': {
+    cnic: '21203-8887516-3',
+    name: 'ABDUL WAHAB',
+    fatherName: 'SHAH KHALID',
+    licenseNumber: '00000095748',
+    licenseType: 'HTV ONLY',
+    issueDate: '20-03-2025',
+    expiryDate: '06-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/ABDULWAHAB.jpg'
+  },
 };
 
 
