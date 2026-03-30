@@ -525,31 +525,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'AB POSITIVE',
     imageUrl: '/saad.jpg'
   },
-  
- '2120381582975': {
-    cnic: '21203-8158297-5',
-    name: 'QIRAT GUL',
-    fatherName: 'WADOOD GUL',
-    licenseNumber: '00000088645',
-    licenseType: 'LTV,HTV ONLY',
-    issueDate: '12-05-2025',
-    expiryDate: '17-03-2030',
-    address: "null",
-    bloodGroup: 'N/A',
-    imageUrl: '/qirat.jpg'
-  },
- '4230159717841': {
-    cnic: '42301-5971784-1',
-    name: 'NAWA GUL',
-    fatherName: 'ALI BAGH',
-    licenseNumber: '00000096754',
-    licenseType: 'HTV ONLY',
-    issueDate: '19-03-2025',
-    expiryDate: '27-02-2030',
-    address: "null",
-    bloodGroup: 'N/A',
-    imageUrl: '/nawa.jpg'
-  },
+
    '2120320453267': {
     cnic: '21203-2045326-7',
     name: 'ALEEM SHAH',
@@ -636,19 +612,6 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'AB POSITIVE',
     imageUrl: '/MUKHTAR.jpg'
   },
-   '5420375364991': {
-    cnic: '54203-7536499-1',
-    name: 'MUHAMMAD YOUNAS',
-    fatherName: 'JANAN',
-    licenseNumber: '00000078397',
-    licenseType: 'HTV ONLY',
-    issueDate: '10-03-2025',
-    expiryDate: '19-02-2030',
-    address: "null",
-    bloodGroup: 'N/A',
-    imageUrl: '/MUHAMMAD-YOUNAS.jpg'
-  },
-  
    '4250118103239': {
     cnic: '42501-1810323-9',
     name: 'RAMZAN',
@@ -661,43 +624,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/RAMZAN.jpg'
   },
-   '5420325250337': {
-    cnic: '54203-2525033-7',
-    name: 'ABDUL RASHEED',
-    fatherName: 'NIAZ MUHAMMAD',
-    licenseNumber: '00000077530',
-    licenseType: 'HTV ONLY',
-    issueDate: '27-03-2025',
-    expiryDate: '19-02-2030',
-    address: "null",
-    bloodGroup: 'N/A',
-    imageUrl: '/ABDUL.jpg'
-  },
-   '5420394854191': {
-    cnic: '54203-9885419-1',
-    name: 'NASEER AHMED',
-    fatherName: 'NIAZ MUHAMMAD',
-    licenseNumber: '00000077421',
-    licenseType: 'HTV ONLY',
-    issueDate: '19-02-2025',
-    expiryDate: '10-01-2030',
-    address: "null",
-    bloodGroup: 'N/A',
-    imageUrl: '/NASEER.jpg'
-  },
-  
-   '4240106628043': {
-    cnic: '42401-0662804-3',
-    name: 'MUHAMMAD TARIQ KHAN NIAZI',
-    fatherName: 'FATEH KHAN NIAZI',
-    licenseNumber: '00000077341',
-    licenseType: 'HTV ONLY',
-    issueDate: '15-01-2025',
-    expiryDate: '13-01-2030',
-    address: "null",
-    bloodGroup: 'N/A',
-    imageUrl: '/NIAZI.jpg'
-  },
+   
   '2120353525721': {
     cnic: '21203-53525721',
     name: 'ZAR WALI SHAH',
