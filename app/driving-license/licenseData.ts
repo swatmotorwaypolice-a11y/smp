@@ -808,6 +808,30 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/ABDULWAHAB.jpg'
   },
+  '2120347969169': {
+    cnic: '21203-4796916-9',
+    name: 'HAZRAT ALI',
+    fatherName: 'SWAT SHAH',
+    licenseNumber: '00000098223',
+    licenseType: 'LTV HTV ONLY',
+    issueDate: '19-03-2025',
+    expiryDate: '09-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/HAZRATALI.jpg'
+  },
+  '2120381209887': {
+    cnic: '21203-8120988-7',
+    name: 'TILAWAT KHAN',
+    fatherName: 'ALI MAN SHAH',
+    licenseNumber: '00000097654',
+    licenseType: 'HTV ONLY',
+    issueDate: '10-01-2025',
+    expiryDate: '09-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/TILAWATKHAN.jpg'
+  },
 };
 
 
