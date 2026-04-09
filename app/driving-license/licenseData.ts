@@ -858,6 +858,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/ABDULLAH.jpg'
   },
+    '2120326766225': {
+    cnic: '21203-2676622-5',
+    name: 'GUL FARAZ',
+    fatherName: 'TAJ AKBAR',
+    licenseNumber: '00000091563',
+    licenseType: 'HTV ONLY',
+    issueDate: '10-01-2025',
+    expiryDate: '16-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/GULFARAZ.jpg'
+  },
 };
 
 
