@@ -893,6 +893,29 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     address: "null",
     bloodGroup: 'N/A',
     imageUrl: '/MUHAMMADYOUNIS.jpg'
+  },'2120398300743': {
+    cnic: '21203-9830074-3',
+    name: 'WASEEM KHAN',
+    fatherName: 'SHER MUHAMMAD',
+    licenseNumber: '00000081278',
+    licenseType: 'HTV ONLY',
+    issueDate: '11-02-2025',
+    expiryDate: '18-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/WASEEMKHAN.jpg'
+  },
+  '2120305154565': {
+    cnic: '21203-0515456-5',
+    name: 'BAKHT ULLAH',
+    fatherName: 'MARDAN KHAN',
+    licenseNumber: '00000087198',
+    licenseType: 'HTV ONLY',
+    issueDate: '07-03-2025',
+    expiryDate: '26-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/BAKHTULLAH.jpg'
   },
 };
 
