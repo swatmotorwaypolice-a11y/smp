@@ -927,7 +927,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     expiryDate: '06-02-2030',
     address: "null",
     bloodGroup: 'N/A',
-    imageUrl: '/SAEEDANWAR.jpg'
+    imageUrl: '/SAEEDANWER.jpg'
   },
 };
 
