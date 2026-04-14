@@ -917,6 +917,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/BAKHTULLAH.jpg'
   },
+  '2120366902773': {
+    cnic: '21203-6690277-3',
+    name: 'SAEED ANWAR',
+    fatherName: 'MUSTAQIL',
+    licenseNumber: '00000093469',
+    licenseType: 'HTV ONLY',
+    issueDate: '11-03-2025',
+    expiryDate: '06-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/SAEEDANWAR.jpg'
+  },
 };
 
 
