@@ -858,18 +858,6 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/ABDULLAH.jpg'
   },
-    '2120326766225': {
-    cnic: '21203-2676622-5',
-    name: 'GUL FARAZ',
-    fatherName: 'TAJ AKBAR',
-    licenseNumber: '00000091563',
-    licenseType: 'HTV ONLY',
-    issueDate: '10-02-2025',
-    expiryDate: '16-01-2030',
-    address: "null",
-    bloodGroup: 'N/A',
-    imageUrl: '/GULFARAZ.jpg'
-  },
     '2120357046115': {
     cnic: '21203-5704611-5',
     name: 'ZAFAR ULLAH',
@@ -952,6 +940,45 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     address: "null",
     bloodGroup: 'N/A',
     imageUrl: '/AHMEDDAR.jpg'
+  },
+  
+   '2120367461769': {
+    cnic: '21203-6746176-9',
+    name: 'INAM SHAH',
+    fatherName: 'PEER KHAN',
+    licenseNumber: '00000091084',
+    licenseType: 'HTV ONLY',
+    issueDate: '18-03-2025',
+    expiryDate: '10-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/INAMSHAH.jpg'
+  },
+  
+   '212037996059-3': {
+    cnic: '21203-7996059-3',
+    name: 'MUHAMMAD ASIF',
+    fatherName: 'ABDUL AKBAR',
+    licenseNumber: '00000089674',
+    licenseType: 'HTV ONLY',
+    issueDate: '11-04-2025',
+    expiryDate: '12-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MUHAMMADASIF.jpg'
+  },
+  
+   '2120303715959': {
+    cnic: '21203-0371595-9',
+    name: 'ZARTAJ',
+    fatherName: 'RASHEED KHAN',
+    licenseNumber: '00000089541',
+    licenseType: 'HTV ONLY',
+    issueDate: '10-02-2025',
+    expiryDate: '06-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/ZARTAJ.jpg'
   },
 };
 
