@@ -955,7 +955,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     imageUrl: '/INAMSHAH.jpg'
   },
   
-   '212037996059-3': {
+   '2120379960593': {
     cnic: '21203-7996059-3',
     name: 'MUHAMMAD ASIF',
     fatherName: 'ABDUL AKBAR',
