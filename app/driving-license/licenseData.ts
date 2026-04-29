@@ -980,6 +980,19 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/ZARTAJ.jpg'
   },
+  
+   '2120323915885': {
+    cnic: '21203-2391588-5',
+    name: 'MUSADIQ KHAN',
+    fatherName: 'SIRAJ MUHAMMAD',
+    licenseNumber: '00000097121',
+    licenseType: 'HTV ONLY',
+    issueDate: '12-04-2025',
+    expiryDate: '06-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MUSADIQKHAN.jpg'
+  },
 };
 
 
