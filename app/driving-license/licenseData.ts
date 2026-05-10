@@ -991,6 +991,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/ABDULREHMAN.jpg'
   },
+     '2120147777791': {
+    cnic: '21203-4777779-1',
+    name: 'NIAZ MUHAMMAD',
+    fatherName: 'KHAIL KHAN',
+    licenseNumber: '00000077091',
+    licenseType: 'LTV ONLY',
+    issueDate: '11-03-2025',
+    expiryDate: '12-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/NIAZMUHAMMAD.jpg'
+  },
 };
 
 
