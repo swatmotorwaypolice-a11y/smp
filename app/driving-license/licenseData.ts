@@ -1002,6 +1002,29 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     address: "null",
     bloodGroup: 'N/A',
     imageUrl: '/NIAZMUHAMMAD.jpg'
+  },'2120361105469': {
+    cnic: '21203-6110546-9',
+    name: 'QURBAN ALI',
+    fatherName: 'LAL MARJAN',
+    licenseNumber: '00000089021',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-03-2024',
+    expiryDate: '16-02-2029',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/QURBANALI.jpg'
+  },
+  '2120374191317': {
+    cnic: '21203-7419131-7',
+    name: 'AZIZ ULLAH',
+    fatherName: 'SHAMI ULLAH',
+    licenseNumber: '00000093015',
+    licenseType: 'HTV ONLY',
+    issueDate: '08-01-2024',
+    expiryDate: '07-01-2029',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/AZIZULLAH.jpg'
   },
 };
 
