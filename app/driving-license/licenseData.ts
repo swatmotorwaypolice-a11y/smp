@@ -1026,6 +1026,19 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/AZIZULLAH.jpg'
   },
+  
+  '2120329579947': {
+    cnic: '21203-2957994-7',
+    name: 'SAAD ALI',
+    fatherName: 'LAL MARJAN',
+    licenseNumber: '00000089121',
+    licenseType: 'HTV ONLY',
+    issueDate: '10-02-2024',
+    expiryDate: '09-02-2029',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/SAADALI.jpg'
+  },
 };
 
 
