@@ -1036,7 +1036,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     issueDate: '10-02-2024',
     expiryDate: '09-02-2029',
     address: "null",
-    bloodGroup: 'N/A',
+    bloodGroup: 'AB POSITIVE',
     imageUrl: '/SAADALI.jpg'
   },
 };
