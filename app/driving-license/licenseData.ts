@@ -1039,6 +1039,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'AB POSITIVE',
     imageUrl: '/SAADALI.jpg'
   },
+  '2120309877233': {
+    cnic: '21203-0987723-3',
+    name: 'MEHRABAN',
+    fatherName: 'KHAN MUHAMMAD',
+    licenseNumber: '00000089452',
+    licenseType: 'HTV ONLY',
+    issueDate: '11-09-2024',
+    expiryDate: '10-09-2029',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MEHRABAN.jpg'
+  },
 };
 
 
