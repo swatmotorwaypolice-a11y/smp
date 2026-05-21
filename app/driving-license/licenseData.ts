@@ -1076,6 +1076,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'O POSITIVE',
     imageUrl: '/TAYYABULLAH.jpg'
   },
+  '4230133575547': {
+    cnic: '42301-3357554-7',
+    name: 'MUHAMMAD ASIF',
+    fatherName: 'ATTA MUHAMMAD',
+    licenseNumber: '00000089081',
+    licenseType: 'HTV ONLY',
+    issueDate: '22-01-2025',
+    expiryDate: '21-01-2030',
+    address: "null",
+    bloodGroup: 'O POSITIVE',
+    imageUrl: '/MUHAMMADDASIF.jpg'
+  },
 };
 
 
