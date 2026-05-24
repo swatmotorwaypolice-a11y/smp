@@ -1088,6 +1088,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'O POSITIVE',
     imageUrl: '/MUHAMMADDASIF.jpg'
   },
+    '2120388896849': {
+    cnic: '21203-8889684-9',
+    name: 'NAEEM ULLAH',
+    fatherName: 'SABAR KHAN',
+    licenseNumber: '00000081574',
+    licenseType: 'HTV ONLY',
+    issueDate: '15-03-2025',
+    expiryDate: '14-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/NAEEMULLAH.jpg'
+  },
 };
 
 
