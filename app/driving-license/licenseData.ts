@@ -1113,6 +1113,19 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/MUHAMMADAKRAM.jpg'
   },
+  
+    '2120356945177': {
+    cnic: '21203-5694517-7',
+    name: 'AKHTAR NAWAZ',
+    fatherName: 'MUMTAZ KHAN',
+    licenseNumber: '00000086413',
+    licenseType: 'HTV ONLY',
+    issueDate: '17-03-2025',
+    expiryDate: '16-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/AKHTARNAWAZ.jpg'
+  },
 };
 
 
