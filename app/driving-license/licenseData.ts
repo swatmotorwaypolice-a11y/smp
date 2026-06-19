@@ -1152,6 +1152,19 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     imageUrl: '/ABUBAKAR.jpg'
   },
   
+   '2120329840689': {
+    cnic: '21203-2984068-9',
+    name: 'BILAL KHAN',
+    fatherName: 'WALI KHAN',
+    licenseNumber: '00000092072',
+    licenseType: 'HTV ONLY',
+    issueDate: '16-01-2025',
+    expiryDate: '15-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/BILALKHAN.jpg'
+  },
+  
 };
 
 
