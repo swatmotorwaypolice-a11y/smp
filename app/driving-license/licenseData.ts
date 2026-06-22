@@ -1164,6 +1164,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/BILALKHAN.jpg'
   },
+   '2120386327709': {
+    cnic: '21203-8632770-9',
+    name: 'MUHAMMAD ISLAM',
+    fatherName: 'SAIF UR RAHMAN',
+    licenseNumber: '00000098591',
+    licenseType: 'HTV ONLY',
+    issueDate: '15-03-2025',
+    expiryDate: '14-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MUHAMMADISLAM.jpg'
+  },
   
 };
 
