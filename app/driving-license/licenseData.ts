@@ -1214,7 +1214,60 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/TAJWALKI.jpg'
   },
+
+  '2120380947495': {
+    cnic: '21203-8094749-5',
+    name: 'SHAHAB UD DIN',
+    fatherName: 'KHURSHED KHAN',
+    licenseNumber: '00000089671',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-03-2025',
+    expiryDate: '16-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/SHAHABUDDIN.jpg'
+  },
+
+  '2120310485923': {
+    cnic: '21203-1048592-3',
+    name: 'MUSAWIR KHAN',
+    fatherName: 'MUSTAQIL',
+    licenseNumber: '00000092301',
+    licenseType: 'HTV ONLY',
+    issueDate: '13-01-2025',
+    expiryDate: '12-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MUSAWIRKHAN.jpg'
+  },
   
+  '2120347924033': {
+    cnic: '21203-4792403-3',
+    name: 'ABDUL BASIT',
+    fatherName: 'NAEEM JAN',
+    licenseNumber: '00000093421',
+    licenseType: 'HTV ONLY',
+    issueDate: '08-01-2025',
+    expiryDate: '07-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/ABDULBASIT.jpg'
+  },
+  
+  '2120394985661': {
+    cnic: '21203-9498566-1',
+    name: 'MUHAMMAD WAQIF',
+    fatherName: 'LAKHKAR SHAH',
+    licenseNumber: '00000076431',
+    licenseType: 'HTV ONLY',
+    issueDate: '08-01-2025',
+    expiryDate: '07-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MUHAMMADWAQIF.jpg'
+  },
+
+
 };
 
 
