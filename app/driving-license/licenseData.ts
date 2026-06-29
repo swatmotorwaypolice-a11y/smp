@@ -1259,7 +1259,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     name: 'MUHAMMAD WAQIF',
     fatherName: 'LAKHKAR SHAH',
     licenseNumber: '00000076431',
-    licenseType: 'HTV ONLY',
+    licenseType: 'LTV ONLY',
     issueDate: '08-01-2025',
     expiryDate: '07-01-2030',
     address: "null",
