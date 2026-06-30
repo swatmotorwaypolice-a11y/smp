@@ -1266,6 +1266,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/MUHAMMADWAQIF.jpg'
   },
+  '2120274761231': {
+    cnic: '21202-7476123-1',
+    name: 'MAVID KHAN',
+    fatherName: 'JAVED KHAN',
+    licenseNumber: '00000094281',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-01-2025',
+    expiryDate: '18-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MAVIDKHAN.jpg'
+  },
 
 
 };
