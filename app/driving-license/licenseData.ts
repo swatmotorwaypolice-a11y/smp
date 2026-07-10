@@ -1275,9 +1275,22 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     issueDate: '19-01-2025',
     expiryDate: '18-01-2030',
     address: "null",
-    bloodGroup: 'N/A',
+    bloodGroup: 'A(+ve)',
     imageUrl: '/MAVIDKHAN.jpg'
   },
+  '2250184870035': {
+    cnic: '22501-8487003-5',
+    name: 'SHAH SAWAR',
+    fatherName: 'MENA GUL',
+    licenseNumber: '00000063521',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-03-2024',
+    expiryDate: '16-02-2029',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/SHAHSAWAR.jpg'
+  },
+
 
 
 };
