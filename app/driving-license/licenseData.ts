@@ -1290,6 +1290,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/SHAHSAWAR.jpg'
   },
+  '2240195554307': {
+    cnic: '2240195554307',
+    name: 'MUHAMMAD WASEEM',
+    fatherName: 'ILAM KHAN',
+    licenseNumber: '00000098203',
+    licenseType: 'HTV ONLY',
+    issueDate: '25-03-2025',
+    expiryDate: '24-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MUHAMMADWASEEM.jpg'
+  },
 
 
 
