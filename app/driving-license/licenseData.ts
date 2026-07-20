@@ -1302,9 +1302,42 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/MUHAMMADWASEEM.jpg'
   },
-
-
-
+  '2120351543501': {
+    cnic: '21203-5154350-1',
+    name: 'LUQMAN AFRIDI',
+    fatherName: 'FARMAN ULLAH',
+    licenseNumber: '00000089143',
+    licenseType: 'HTV ONLY',
+    issueDate: '07-01-2025',
+    expiryDate: '06-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/LUQMANAFRIDI.jpg'
+  },
+  '1730197097803': {
+    cnic: '17301-9709780-3',
+    name: 'MUHAMMAD WAQAS',
+    fatherName: 'DUNYA DAR KHAN',
+    licenseNumber: '00000091021',
+    licenseType: 'HTV ONLY',
+    issueDate: '13-03-2025',
+    expiryDate: '12-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MUHAMMADWAQAS.jpg'
+  },
+  '2120324706939': {
+    cnic: '21203-2470693-9',
+    name: 'RAHAM DAR',
+    fatherName: 'AZIZ ULLAH',
+    licenseNumber: '00000076102',
+    licenseType: 'HTV ONLY',
+    issueDate: '11-01-2025',
+    expiryDate: '10-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/RAHAMDAR.jpg'
+  },
 };
 
 
