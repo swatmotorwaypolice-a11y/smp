@@ -1338,6 +1338,77 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/RAHAMDAR.jpg'
   },
+  '2120395561515': {
+    cnic: '21203-9556151-5',
+    name: 'FARHAD KHAN',
+    fatherName: 'ADRO GUL',
+    licenseNumber: '00000082102',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-03-2025',
+    expiryDate: '18-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/FARHADKHAN.jpg'
+  },'2120358143423': {
+    cnic: '21203-5814342-3',
+    name: 'KHAWAS KHAN',
+    fatherName: 'SAEED KHAN',
+    licenseNumber: '00000091203',
+    licenseType: 'HTV ONLY',
+    issueDate: '15-07-2024',
+    expiryDate: '14-07-2029',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/KHAWASKHAN.jpg'
+  },
+  '2120391635971': {
+    cnic: '21203-9163597-1',
+    name: 'MUHAMMAD UBAID',
+    fatherName: 'HAYA JAN',
+    licenseNumber: '000000183912',
+    licenseType: 'HTV ONLY',
+    issueDate: '18-04-2025',
+    expiryDate: '17-04-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/MUHAMMADUBAID.jpg'
+  },
+  '1730186834847': {
+    cnic: '17301-8683484-7',
+    name: 'IQTIDAR ',
+    fatherName: 'IRSHAD ULLAH',
+    licenseNumber: '00000081920',
+    licenseType: 'HTV ONLY',
+    issueDate: '12-01-2025',
+    expiryDate: '11-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/IQTIDAR.jpg'
+  },
+  '2120371360269': {
+    cnic: '21203-7136026-9',
+    name: 'HAZRAT NAWAZ',
+    fatherName: 'DOST MUHAMMAD',
+    licenseNumber: '00000082910',
+    licenseType: 'HTV ONLY',
+    issueDate: '17-03-2025',
+    expiryDate: '16-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/HAZRATNAWAZ.jpg'
+  },
+  '2120387390659': {
+    cnic: '21203-8739065-9',
+    name: 'HAYA JAN',
+    fatherName: 'SAID MIR JAN',
+    licenseNumber: '00000014520',
+    licenseType: 'HTV ONLY',
+    issueDate: '14-01-2025',
+    expiryDate: '13-01-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/HAYAKHAN.jpg'
+  },
 };
 
 
