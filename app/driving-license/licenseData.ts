@@ -1431,7 +1431,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     expiryDate: '01-03-2030',
     address: "null",
     bloodGroup: 'N/A',
-    imageUrl: '/DUNYADARKHNA.jpg'
+    imageUrl: '/DUNYADARKHAN.jpg'
   }, '2120333555173': {
     cnic: '21203-3355517-3',
     name: 'ASIF KHAN',
