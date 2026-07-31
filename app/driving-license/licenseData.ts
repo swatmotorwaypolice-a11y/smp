@@ -1444,6 +1444,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/ASIFKHAN.jpg'
   },
+  '1560125436801': {
+    cnic: '15601-2543680-1',
+    name: 'ARSHAD ALI',
+    fatherName: 'UMAR HAYAT',
+    licenseNumber: '00000098102',
+    licenseType: 'HTV ONLY',
+    issueDate: '20-03-2025',
+    expiryDate: '19-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/ARSHADALI.jpg'
+  },
 };
 
 
