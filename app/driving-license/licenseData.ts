@@ -592,7 +592,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     cnic: '21203-4933440-1',
     name: 'GULZAR ALAM',
     fatherName: 'SAMANDAR KHAN',
-    licenseNumber: '00000098436',
+    licenseNumber: '0000098436',
     licenseType: 'HTV ONLY',
     issueDate: '14-03-2025',
     expiryDate: '17-02-2030',
