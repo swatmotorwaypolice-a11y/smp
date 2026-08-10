@@ -1495,6 +1495,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/ZAHOORKHAN.jpg'
   },
+    '2120250700851': {
+    cnic: '21202-5070085-1',
+    name: 'MUHAMMAD RAMZAN KHAN',
+    fatherName: 'SHER ZAMAN',
+    licenseNumber: '00000091284',
+    licenseType: 'HTV ONLY',
+    issueDate: '14-01-2025',
+    expiryDate: '13-01-2030',
+    address: "null",
+    bloodGroup: 'O+',
+    imageUrl: '/MUHAMMADRAMZANKHAN.jpg'
+  },
 };
 
 
