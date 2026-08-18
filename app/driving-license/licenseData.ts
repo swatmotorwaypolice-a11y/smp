@@ -1507,6 +1507,19 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'O+',
     imageUrl: '/MUHAMMADRAMZANKHAN.jpg'
   },
+  
+    '2120366852525': {
+    cnic: '21203-6685252-5',
+    name: 'HAZRAT UMAR',
+    fatherName: 'RAIPOOL',
+    licenseNumber: '00000093012',
+    licenseType: 'HTV ONLY',
+    issueDate: '05-02-2025',
+    expiryDate: '04-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/HAZRATUMAR.jpeg'
+  },
 };
 
 
