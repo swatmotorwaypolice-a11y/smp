@@ -1530,7 +1530,7 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     expiryDate: '04-02-2030',
     address: "null",
     bloodGroup: 'N/A',
-    imageUrl: '/hasnain.jpeg'
+    imageUrl: '/hasnain.jpg'
   },
 };
 
