@@ -1520,6 +1520,18 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/HAZRATUMAR.jpeg'
   },
+  '4250107229801': {
+    cnic: '42501-0722980-1',
+    name: 'HASNAIN AHMED',
+    fatherName: 'MUHAMMAD RASHEED',
+    licenseNumber: '00000093013',
+    licenseType: 'HTV ONLY',
+    issueDate: '05-02-2025',
+    expiryDate: '04-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/hasnain.jpeg'
+  },
 };
 
 
