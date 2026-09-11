@@ -1558,6 +1558,19 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/habibullah.jfif'
   },
+   
+  '2120384428453': {
+    cnic: '21203-8442845-3',
+    name: 'GULI SHAH',
+    fatherName: 'HAIDER ABAD KHAN',
+    licenseNumber: '00000092654',
+    licenseType: 'HTV ONLY',
+    issueDate: '21-01-2025',
+    expiryDate: '20-01-2030',
+    address: "null",
+    bloodGroup: 'A+',
+    imageUrl: '/GULSHAH.jfif'
+  },
 };
 
 
