@@ -1571,6 +1571,19 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'A+',
     imageUrl: '/GULLSHAH.jfif'
   },
+   
+  '2120322680911': {
+    cnic: '21203-2268091-1',
+    name: 'ALI MUHAMMAD',
+    fatherName: 'SHAH KHALID',
+    licenseNumber: '00000092098',
+    licenseType: 'LTV,HTV ONLY',
+    issueDate: '21-03-2025',
+    expiryDate: '20-03-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/ali.jpg'
+  },
 };
 
 
