@@ -1584,6 +1584,32 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/ali.jpg'
   },
+  
+  '1610144757327': {
+    cnic: '16101-4475732-7',
+    name: 'TAJ MUHAMMAD',
+    fatherName: 'MEHER TAJ',
+    licenseNumber: '103200031451',
+    licenseType: 'LTV,HTV ONLY',
+    issueDate: '09-06-2023',
+    expiryDate: '26-10-2028',
+    address: "null",
+    bloodGroup: 'O+',
+    imageUrl: '/taj.jpeg'
+  },
+  
+  '4230159717841': {
+    cnic: '42301-5971784-1',
+    name: 'NAWA GUL',
+    fatherName: 'ALI BAGH',
+    licenseNumber: '00000096754',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-03-2025',
+    expiryDate: '27-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/nawa.jpg'
+  },
 };
 
 
