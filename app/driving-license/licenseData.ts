@@ -1610,6 +1610,19 @@ export const mockLicenseData: { [key: string]: LicenseDetails } = {
     bloodGroup: 'N/A',
     imageUrl: '/nawa.jpg'
   },
+  
+  '2120386337081': {
+    cnic: '21203-8633708-1',
+    name: 'BAKHT ULLAH',
+    fatherName: 'IMDAD KHAN',
+    licenseNumber: '19000009281',
+    licenseType: 'HTV ONLY',
+    issueDate: '19-03-2025',
+    expiryDate: '18-02-2030',
+    address: "null",
+    bloodGroup: 'N/A',
+    imageUrl: '/BAKHTULLAH.jpg'
+  },
 };
 
 
